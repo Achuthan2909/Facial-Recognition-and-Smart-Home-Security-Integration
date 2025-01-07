@@ -1,1 +1,0 @@
-# Facial-Recognition-and-Smart-Home-Security-Integration
